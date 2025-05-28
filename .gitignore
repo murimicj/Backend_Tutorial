@@ -1,0 +1,6 @@
+node_modules
+ourApp.db
+package-lock.json
+package.json
+ourApp.db-shm
+ourApp.db-wal
